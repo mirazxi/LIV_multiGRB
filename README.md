@@ -24,3 +24,6 @@ Using a conservative 3-degree angular selection, the strongest linear LIV constr
 
 ```text
 E_QG,1 > 4.708 x 10^18 GeV
+0.386 E_Planck
+pip install -r requirements.txt
+jupyter notebook 01_multigrb_liv_analysis.ipynb
